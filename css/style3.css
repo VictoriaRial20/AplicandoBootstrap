@@ -16,6 +16,10 @@ body{
 .main{
     height: 60vh;
 }
+.main__img{
+    width: 80%;
+    height: auto;
+}
 .footer{
     text-align: center;
     height: 20vh;

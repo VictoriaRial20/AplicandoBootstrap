@@ -14,7 +14,11 @@ body{
     height: 60px;
 }
 .main{
-    height: 60vh;
+    height: auto;
+}
+.main__img{
+    width: 25%;
+    height: auto;
 }
 .footer{
     text-align: center;
